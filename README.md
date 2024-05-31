@@ -1,6 +1,6 @@
 # Text_Summarization_Project
 
-# End_To_End_Text-Summarizer-Project
+
 ## Work flows
 ```bash
 1.update config.yaml
